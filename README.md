@@ -20,6 +20,9 @@ Usage
 ```
 You don't have to do anything，AOP have already done it for you.
 ```
+
+![Alt text](PopGesture.gif)
+
 License
 -------
 
